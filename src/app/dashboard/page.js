@@ -2,7 +2,7 @@
 const Page = () => {
     return (
         <div>
-            <h1>Dashboard Home</h1>
+            <h1> This is Dashboard Home</h1>
         </div>
     );
 };
